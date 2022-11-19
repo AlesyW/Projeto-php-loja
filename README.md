@@ -12,6 +12,7 @@
 ## Tecnologias 
 - [HTML](https://www.w3schools.com/html/default.asp) 
 - [CSS](https://www.w3schools.com/css/default.asp) 
+- [JS](https://www.w3schools.com/js/default.asp)
 - [PHP](https://www.php.net/manual/pt_BR/)
 - [SQL](https://www.w3schools.com/sql/)
 
